@@ -273,6 +273,7 @@ h5 {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
+    padding: 0 10px;
 }
 
 .contact-heading p {
@@ -359,7 +360,7 @@ form {
         font-size: 42px;
     }
     .contact-form{
-        width: 100%;
+        width: 90%;
     }
 }
 
